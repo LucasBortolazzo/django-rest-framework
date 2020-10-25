@@ -9,7 +9,7 @@ Aplicação para estudo utilizando Django Rest para o backend e Angular para o f
 ## Preview
 
 ### Cadastro de Membros
-![print](Prints/Cadastro Membro.PNG) 
+![print](Prints/CadastroMembro.PNG) 
 
 ### Servidor em execução
 ![print](Prints/Localhost-8000.PNG) 
