@@ -9,16 +9,16 @@ Aplicação para estudo utilizando Django Rest para o backend e Angular para o f
 ## Preview
 
 ### Cadastro de Membros
-![print](prints/Cadastro Membro.PNG) 
+![print](Prints/Cadastro Membro.PNG) 
 
 ### Servidor em execução
-![print](prints/Localhost-8000.PNG) 
+![print](Prints/Localhost-8000.PNG) 
 
 ### Listagem de Membros
-![print](prints/MemberList.PNG) 
+![print](Prints/MemberList.PNG) 
 
 ### Aplicação Angular consimundo API Django
-![print](prints/AplicacaoAngular.PNG) 
+![print](Prints/AplicacaoAngular.PNG) 
 
  
 ## Main requirements
