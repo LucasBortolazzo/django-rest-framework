@@ -1,5 +1,5 @@
 # Django Rest Framework com Angular
-Aplicação para estudo utilizando Django Rest para o backend e Angular para o frontend.
+Aplicação para estudo utilizando Django Rest Framework para o backend e Angular para o frontend.
 
 
 ## Features
